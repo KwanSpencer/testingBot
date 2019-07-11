@@ -3,11 +3,11 @@ keys = {
     "email" : "",
     "first_name" : "Bob",
     "last_name" : "James",
-    "address" : "",
-    "flat" : "",
-    "city" : "",
-    "postcode" : "",
-    "phone" : ""
+    "address" : "insert billing address here",
+    "flat" : "insert flat here",
+    "city" : "insert city here",
+    "postcode" : "insert postcode here",
+    "phone" : "insert number here"
 
 
 }
